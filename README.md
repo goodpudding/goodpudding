@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Trey], Aka Goodpudding!
+# Hi there 👋, I'm Trey, Aka Goodpudding!
 
 Welcome to my GitHub page! I'm a software developer with a passion for coding, cats, and cinema. I love creating things that live on the internet, whether they're websites, applications, or anything else. Here, you'll find a mix of my projects, hobbies, and a bit of my personality.
 
