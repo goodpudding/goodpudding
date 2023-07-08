@@ -8,12 +8,12 @@ Welcome to my GitHub page! I'm a software developer with a passion for coding, c
 
 I've worked on a wide range of projects, here are a few I'm most proud of:
 
-- **Project 1**: Brief description and purpose of project 1. ([link to project 1](url-of-project-1))
+- **Console Quest 2**: A retro styled 2d game using Phaser.js. ([link to project 1](https://github.com/Console-Quest/ConsoleQuestPhaser))
   
-- **Project 2**: Brief description and purpose of project 2. ([link to project 2](url-of-project-2))
+- **Console Quest**: A text based adventure game that utilizes OpenAI API for unique gameplay. ([link to project 2](https://github.com/Console-Quest/console-quest))
 
-- **Project 3**: Brief description and purpose of project 3. ([link to project 3](url-of-project-3))
-
+- **What The Fox**: A fox meme generator that uses Random Fox API and a Meme Generator API. ([link to project 3](https://github.com/orgs/Team-Fox-trot/repositories)
+  
 Feel free to explore and I'd be glad to receive feedback or answer any questions you may have!
 
 ## 🛠️ Languages and Tools
@@ -35,11 +35,26 @@ I use a variety of languages and tools in my web development projects:
 
 Outside the world of code, I'm a huge cat lover. Here are my furry friends:
 
-- **Marshmellow**: My best friend. He's a chill little guy that loves brushes and just hanging out. ([link to cat 1's picture](url-of-cat-1's-pic))
+<table border="0">
+  <tr>
+    <td>
+      <strong>Marshmellow</strong>: My best friend. He's a chill little guy that loves brushes and just hanging out.
+    </td>
+    <td>
+      <img src="https://github.com/goodpudding/goodpudding/blob/master/Marshmellow.jpg?raw=true" alt="Marshmellow" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Graham</strong>: My little princess. I rescued her from a farm after finding her with a broken leg.
+    </td>
+    <td>
+      <img src="https://github.com/goodpudding/goodpudding/blob/master/Graham.jpg?raw=true" alt="Graham" width="200"/>
+    </td>
+  </tr>
+</table>
 
-- **Graham**: My little princess. I rescued her from a farm after finding her with a broken leg. ![link to Graham's picture](https://photos.google.com/share/AF1QipP3iZEOVnc7KUPhGNz94eXu2mIgotkrS9lQ_yM3DB2YbEYORhe380MG0E8HB4TPDA/photo/AF1QipPTcPdj9R4tEm0wK-5-NWwsfbpRmc-3iE4CUwp2?key=eXVVM25JbGItNi1ZZm91R0UxR2dxNFFlZzUtZTVR)
-
-I enjoy sharing photos and stories about my cats, so you can check my instagram @goodpudding for more. 
+I enjoy sharing photos and stories about my cats, so you can check my instagram [@goodpudding](https://www.instagram.com/goodpudding/) for more. 
 
 ## 🎬 My Favorite Movies and Shows
 
@@ -57,6 +72,6 @@ Do you have similar tastes or recommendations for me? I'd love to hear them!
 
 Feel free to reach out if you want to chat about software development, cats, movies, or anything else! You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/jamestreyyoung/)https://www.linkedin.com/in/jamestreyyoung/
+- [LinkedIn](https://www.linkedin.com/in/jamestreyyoung/)
 
 Thanks for stopping by!
