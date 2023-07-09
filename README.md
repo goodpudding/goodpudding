@@ -119,5 +119,5 @@ Do you have similar tastes or recommendations for me? I'd love to hear them!
 Feel free to reach out if you want to chat about software development, cats, movies, or anything else! You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/jamestreyyoung/)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=goodpudding&show_icons=true&theme=gruvbox_light)
 Thanks for stopping by!
