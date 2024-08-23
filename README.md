@@ -7,7 +7,7 @@ Welcome to my GitHub page! I'm a software developer with a passion for coding, c
 ## 👨‍💻 My Projects
 
 I've worked on a wide range of projects, here are a few I'm most proud of:
-[My Portfolio](https://goodpoodingportfolio.netlify.app/)
+[My Portfolio](https://goodpuddingportfolio.netlify.app/)
 
 - **Console Quest 2**: A retro styled 2d game using Phaser.js. ([link to project 1](https://github.com/Console-Quest/ConsoleQuestPhaser))
   
